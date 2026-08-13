@@ -7,6 +7,8 @@
 
 ![Project Demo](assets/demo.gif)
 
+![App Demo showing the weight tracking feature](assets/demo.gif)
+
 ## Features
 
 - **Fast & Lightweight:** Optimized for minimal memory usage and quick startup.
