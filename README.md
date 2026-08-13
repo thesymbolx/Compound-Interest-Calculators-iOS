@@ -1,6 +1,6 @@
 # Compound Interest Calculator (iOS)
 
-> A pixel-perfect, mathematically rigorous compound interest calculator built with SwiftUI. 
+> Mathematically rigorous compound interest calculator built with SwiftUI. 
 
 Unlike generic calculators that use simplified annual formulas, this app aligns precisely with how actual banks calculate compound interest using **Daily Accrual** mathematics. Complete with animated graphs and parallax scrolling for a premium user experience.
 
